@@ -7,4 +7,7 @@ The changes I was able to make were:
 * made sure all the links function properly.
 * added descriptive alt attributes where necessary. 
 
-[Access the site here!] ()
+Access the site here https://brandonpeterson6.github.io/challenge-1/
+
+
+
