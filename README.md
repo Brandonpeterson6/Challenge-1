@@ -9,4 +9,4 @@ The changes I was able to make were:
 
 Access the site here https://brandonpeterson6.github.io/challenge-1/
 
-![Screenshot](/assets/images/challenge-1-Screenshot.png)
+![Screenshot](/assets/images/challenge-1-screenshot.png)
